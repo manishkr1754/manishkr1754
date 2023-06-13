@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 
-
 <h3 align="center">Data Science and Machine Learning Enthusiast from India 🇮🇳 </h3>
 
 # 💻 Tech Stack:
