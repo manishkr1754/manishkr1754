@@ -15,8 +15,3 @@
 [![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/manishkr1754)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manishkmrofficial) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kmrmanish) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Manish-Kumar-2591) 
 
 
-
-
-### ✍️ Quote of the moment
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
