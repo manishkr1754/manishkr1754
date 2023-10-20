@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/manishkr1754/manishkr1754/blob/main/namaste_world.gif")></h1>
+<img src="https://raw.githubusercontent.com/manishkr1754/manishkr1754/main/namaste_world.gif">
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 
